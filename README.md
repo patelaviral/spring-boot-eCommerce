@@ -41,6 +41,8 @@ The system consists of five microservices, each handling a specific e-commerce f
 📌 Maven
 📌 MySQL (or Docker for database)
 
+![image alt](https://github.com/patelaviral/spring-boot-eCommerce/blob/422924d72e1af7fb1efa891162ceaf4d61854c12/Screenshot%202024-12-10%20225632.png)
+
 🎯 Future Enhancements
 ✅ Implement Order & Payment Microservices 💳
 ✅ Integrate Cloud Storage for images ☁️
